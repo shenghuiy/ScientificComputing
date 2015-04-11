@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    117161,       1968]
-NotebookOptionsPosition[    116533,       1941]
-NotebookOutlinePosition[    116888,       1957]
-CellTagsIndexPosition[    116845,       1954]
+NotebookDataLength[    117709,       1988]
+NotebookOptionsPosition[    116965,       1957]
+NotebookOutlinePosition[    117320,       1973]
+CellTagsIndexPosition[    117277,       1970]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1935,7 +1935,23 @@ Cell["Verbatim Code Style", "Program",
  CellChangeTimes->{{3.637728042363392*^9, 3.637728077217944*^9}}],
 
 Cell["Formula", "Text",
- CellChangeTimes->{{3.637729032945157*^9, 3.637729034992044*^9}}]
+ CellChangeTimes->{{3.637729032945157*^9, 3.637729034992044*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ContinuedFractionK", "[", 
+  RowBox[{
+   RowBox[{"n", "^", "2"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"n", ",", "1", ",", "10"}], "}"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.6377300628182497`*^9, 3.6377300700448647`*^9}, 
+   3.637730105447219*^9}],
+
+Cell[BoxData[
+ FractionBox["13690825314204", "17021645372933"]], "Output",
+ CellChangeTimes->{3.6377301070800877`*^9}]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
@@ -1967,7 +1983,11 @@ Cell[2811, 79, 113385, 1848, 195, "Output"]
 }, Open  ]],
 Cell[116211, 1930, 95, 1, 30, "Text"],
 Cell[116309, 1933, 104, 1, 46, "Program"],
-Cell[116416, 1936, 89, 1, 30, "Text"]
+Cell[116416, 1936, 89, 1, 30, "Text"],
+Cell[CellGroupData[{
+Cell[116530, 1941, 274, 7, 28, "Input"],
+Cell[116807, 1950, 118, 2, 48, "Output"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
