@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     58682,       1006]
-NotebookOptionsPosition[     58169,        983]
-NotebookOutlinePosition[     58524,        999]
-CellTagsIndexPosition[     58481,        996]
+NotebookDataLength[     58806,       1009]
+NotebookOptionsPosition[     58256,        985]
+NotebookOutlinePosition[     58611,       1001]
+CellTagsIndexPosition[     58568,        998]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -959,7 +959,6 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
   DisplayFunction->Identity,
   FaceGridsStyle->Automatic,
   ImageSize->{367.01445759093167`, 274.74556164817443`},
-  ImageSizeRaw->Automatic,
   Method->{"DefaultBoundaryStyle" -> Directive[
       GrayLevel[0.3]], "RotationControl" -> "Globe"},
   PlotRange->{{0, 1}, {0, 1}, {0., 0.9999998001849767}},
@@ -970,7 +969,7 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
   Ticks->{Automatic, Automatic, Automatic},
   ViewPoint->{1.8881112017790072`, -2.056496231786679, 1.9120301614681239`},
   ViewVertical->{0., 0., 1.}]], "Output",
- CellChangeTimes->{3.637726211451273*^9},
+ CellChangeTimes->{3.637726211451273*^9, 3.637728998924912*^9},
  TextAlignment->-0.5]
 }, Open  ]],
 
@@ -978,11 +977,14 @@ Cell["Sample code", "Text",
  CellChangeTimes->{{3.6377280288432293`*^9, 3.637728031355179*^9}}],
 
 Cell["Verbatim Code Style", "Program",
- CellChangeTimes->{{3.637728042363392*^9, 3.637728077217944*^9}}]
+ CellChangeTimes->{{3.637728042363392*^9, 3.637728077217944*^9}}],
+
+Cell["Formula", "Text",
+ CellChangeTimes->{{3.637729032945157*^9, 3.637729034992044*^9}}]
 }, Open  ]]
 },
-WindowSize->{799, 766},
-WindowMargins->{{189, Automatic}, {Automatic, 0}},
+WindowSize->{835, 800},
+WindowMargins->{{147, Automatic}, {Automatic, 0}},
 FrontEndVersion->"10.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 23, \
 2015)",
 StyleDefinitions->"Default.nb"
@@ -1003,10 +1005,11 @@ Cell[580, 22, 91, 1, 65, "Chapter"],
 Cell[674, 25, 1023, 16, 163, "Text"],
 Cell[CellGroupData[{
 Cell[1722, 45, 332, 9, 28, "Input"],
-Cell[2057, 56, 55879, 917, 290, "Output"]
+Cell[2057, 56, 55874, 916, 290, "Output"]
 }, Open  ]],
-Cell[57951, 976, 95, 1, 30, "Text"],
-Cell[58049, 979, 104, 1, 46, "Program"]
+Cell[57946, 975, 95, 1, 30, "Text"],
+Cell[58044, 978, 104, 1, 46, "Program"],
+Cell[58151, 981, 89, 1, 30, "Text"]
 }, Open  ]]
 }
 ]
