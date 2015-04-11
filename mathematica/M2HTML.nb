@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    116681,       1960]
-NotebookOptionsPosition[    116052,       1933]
-NotebookOutlinePosition[    116408,       1949]
-CellTagsIndexPosition[    116365,       1946]
+NotebookDataLength[    117161,       1968]
+NotebookOptionsPosition[    116533,       1941]
+NotebookOutlinePosition[    116888,       1957]
+CellTagsIndexPosition[    116845,       1954]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -49,7 +49,7 @@ performance of the binary classifier.\
 Cell[CellGroupData[{
 
 Cell[BoxData[
- RowBox[{"Grid", "[", 
+ RowBox[{"GraphicsGrid", "[", 
   RowBox[{
    RowBox[{"{", 
     RowBox[{"{", 
@@ -74,11 +74,11 @@ Cell[BoxData[
    ",", 
    RowBox[{"Frame", "\[Rule]", "All"}]}], "]"}]], "Input",
  CellChangeTimes->{{3.637726189815009*^9, 3.637726209950776*^9}, {
-  3.6377293938333797`*^9, 3.637729447222148*^9}}],
+  3.6377293938333797`*^9, 3.637729447222148*^9}, {3.637729661553781*^9, 
+  3.637729662734683*^9}}],
 
 Cell[BoxData[
- TagBox[GridBox[{
-    {
+ GraphicsBox[{{}, {InsetBox[
      Graphics3DBox[GraphicsComplex3DBox[CompressedData["
 1:eJx1nHd4VFW3h0MxSu8YkCYM1UhvouFI+UKGJr1FEFCaMAQBpYhIUUA6g5+U
 gBB6E5EyASkBBKS3kBCYAGkkIY1AAJFirvfe9a7tc55H/plnXk4me97M7LPO
@@ -994,7 +994,9 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
         Scaled[0.02], 
         Scaled[0.02], 
         Scaled[0.02]},
-      Ticks->{Automatic, Automatic, Automatic}], 
+      Ticks->{Automatic, Automatic, Automatic}], {192., -189.}, 
+     ImageScaled[{0.5, 0.5}], {360., 360.},
+     ContentSelectable->True], InsetBox[
      Graphics3DBox[GraphicsComplex3DBox[CompressedData["
 1:eJx1nHd4VFW3h0MxSu8YkCYM1UhvouFI+UKGJr1FEFCaMAQBpYhIUUA6g5+U
 gBB6E5EyASkBBKS3kBCYAGkkIY1AAJFirvfe9a7tc55H/plnXk4me97M7LPO
@@ -1910,14 +1912,20 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
         Scaled[0.02], 
         Scaled[0.02], 
         Scaled[0.02]},
-      Ticks->{Automatic, Automatic, Automatic}]}
-   },
-   AutoDelete->False,
-   GridBoxFrame->{"Columns" -> {{True}}, "Rows" -> {{True}}},
-   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
-  "Grid"]], "Output",
+      Ticks->{Automatic, Automatic, Automatic}], {576., -189.}, 
+     ImageScaled[{0.5, 0.5}], {360., 360.},
+     ContentSelectable->True]}, 
+   StyleBox[{{}, {LineBox[{{0, 0}, {0, -378.}}], 
+      LineBox[{{384., 0}, {384., -378.}}], 
+      LineBox[{{768., 0}, {768., -378.}}], LineBox[{{0, 0}, {384., 0}}], 
+      LineBox[{{384., 0}, {768., 0}}], LineBox[{{0, -378.}, {384., -378.}}], 
+      LineBox[{{384., -378.}, {768., -378.}}]}},
+    Antialiasing->False]},
+  ContentSelectable->True,
+  PlotRangePadding->{6, 5}]], "Output",
  CellChangeTimes->{3.637726211451273*^9, 3.637728998924912*^9, 
-  3.637729377619385*^9, 3.6377294141633387`*^9, 3.637729448303747*^9}]
+  3.637729377619385*^9, 3.6377294141633387`*^9, 3.637729448303747*^9, 
+  3.637729664023472*^9}]
 }, Open  ]],
 
 Cell["Sample code", "Text",
@@ -1932,7 +1940,7 @@ Cell["Formula", "Text",
 }, Open  ]]
 },
 WindowSize->{835, 800},
-WindowMargins->{{101, Automatic}, {-2, Automatic}},
+WindowMargins->{{146, Automatic}, {9, Automatic}},
 FrontEndVersion->"10.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 23, \
 2015)",
 StyleDefinitions->"Default.nb"
@@ -1954,12 +1962,12 @@ Cell[CellGroupData[{
 Cell[709, 27, 91, 1, 65, "Chapter"],
 Cell[803, 30, 1023, 16, 163, "Text"],
 Cell[CellGroupData[{
-Cell[1851, 50, 900, 26, 46, "Input"],
-Cell[2754, 78, 112961, 1841, 165, "Output"]
+Cell[1851, 50, 957, 27, 46, "Input"],
+Cell[2811, 79, 113385, 1848, 195, "Output"]
 }, Open  ]],
-Cell[115730, 1922, 95, 1, 30, "Text"],
-Cell[115828, 1925, 104, 1, 46, "Program"],
-Cell[115935, 1928, 89, 1, 30, "Text"]
+Cell[116211, 1930, 95, 1, 30, "Text"],
+Cell[116309, 1933, 104, 1, 46, "Program"],
+Cell[116416, 1936, 89, 1, 30, "Text"]
 }, Open  ]]
 }, Open  ]]
 }
