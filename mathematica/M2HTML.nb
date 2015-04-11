@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    528524,       8925]
-NotebookOptionsPosition[    525768,       8821]
-NotebookOutlinePosition[    527350,       8882]
-CellTagsIndexPosition[    527016,       8868]
+NotebookDataLength[    527112,       8867]
+NotebookOptionsPosition[    525793,       8817]
+NotebookOutlinePosition[    526168,       8834]
+CellTagsIndexPosition[    526125,       8831]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -79,8 +79,7 @@ Cell[BoxData[
    RowBox[{"Frame", "\[Rule]", "All"}]}], "]"}]], "Input",
  CellChangeTimes->{{3.637726189815009*^9, 3.637726209950776*^9}, {
   3.6377293938333797`*^9, 3.637729447222148*^9}, {3.637729661553781*^9, 
-  3.637729662734683*^9}},
- CellTags->"In[10]:="],
+  3.637729662734683*^9}}],
 
 Cell[BoxData[
  GraphicsBox[{{}, {InsetBox[
@@ -1928,10 +1927,10 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
     Antialiasing->False]},
   ContentSelectable->True,
   PlotRangePadding->{6, 5}]], "Output",
- CellChangeTimes->{3.637726211451273*^9, 3.637728998924912*^9, 
-  3.637729377619385*^9, 3.6377294141633387`*^9, 3.637729448303747*^9, 
-  3.637729664023472*^9, 3.637731807085567*^9},
- CellTags->"Out[10]="]
+ CellChangeTimes->{
+  3.637726211451273*^9, 3.637728998924912*^9, 3.637729377619385*^9, 
+   3.6377294141633387`*^9, 3.637729448303747*^9, 3.637729664023472*^9, 
+   3.637731807085567*^9, {3.63773227139684*^9, 3.637732289816641*^9}}]
 }, Open  ]],
 
 Cell["Sample code", "Text",
@@ -1955,13 +1954,13 @@ Cell[BoxData[
    RowBox[{"{", 
     RowBox[{"n", ",", "1", ",", "10"}], "}"}]}], "]"}]], "Input",
  CellChangeTimes->{{3.6377300628182497`*^9, 3.6377300700448647`*^9}, 
-   3.637730105447219*^9},
- CellTags->"In[11]:="],
+   3.637730105447219*^9}],
 
 Cell[BoxData[
  FractionBox["13690825314204", "17021645372933"]], "Output",
- CellChangeTimes->{3.6377301070800877`*^9, 3.637731807348771*^9},
- CellTags->"Out[11]="]
+ CellChangeTimes->{
+  3.6377301070800877`*^9, 3.637731807348771*^9, {3.637732271488586*^9, 
+   3.63773229000253*^9}}]
 }, Open  ]],
 
 Cell["Image processing", "Text",
@@ -5052,7 +5051,6 @@ YGeEBZgSeChGJMb6sAzOUFKtbqsotSGVs70+KWE9g4dbMQfCn5TMectRRbJI
    ImageSize->Automatic,
    ImageSizeRaw->{360, 240},
    PlotRange->{{0, 360}, {0, 240}}], "]"}]], "Input",
- CellTags->"In[12]:=",
  CellID->309922819],
 
 Cell[BoxData[
@@ -8040,11 +8038,11 @@ Ivx3/+a/9vLeAuZPX8pfXIg72LvLl/7Ct/2m/j8IHgce
   ImageSize->Automatic,
   ImageSizeRaw->{230, 235},
   PlotRange->{{0, 230}, {0, 235}}]], "Output",
- CellChangeTimes->{3.637731807365872*^9},
+ CellChangeTimes->{
+  3.637731807365872*^9, {3.637732271505135*^9, 3.6377322900468817`*^9}},
  ImageSize->{234, 235},
  ImageMargins->{{0, 0}, {0, 0}},
- ImageRegion->{{0, 1}, {0, 1}},
- CellTags->"Out[12]="]
+ ImageRegion->{{0, 1}, {0, 1}}]
 }, Open  ]],
 
 Cell["Large formula", "Text",
@@ -8076,7 +8074,6 @@ Cell[BoxData[
        SubscriptBox["\[Mu]", "2"], "]"}], ",", 
       RowBox[{"ExponentialDistribution", "[", 
        SubscriptBox["\[Mu]", "3"], "]"}]}], "]"}]}]}], "]"}]], "Input",
- CellTags->"In[13]:=",
  CellID->207220844],
 
 Cell[BoxData[
@@ -8115,11 +8112,11 @@ Cell[BoxData[
       SubscriptBox["\[Mu]", "1"], " ", 
       SubscriptBox["\[Mu]", "3"]}]}], ")"}], 
    RowBox[{"3", "/", "2"}]]]], "Output",
- CellChangeTimes->{3.6377318124785137`*^9},
+ CellChangeTimes->{
+  3.6377318124785137`*^9, {3.6377322737032747`*^9, 3.637732294887588*^9}},
  ImageSize->{291, 81},
  ImageMargins->{{0, 0}, {0, 0}},
- ImageRegion->{{0, 1}, {0, 1}},
- CellTags->"Out[13]="]
+ ImageRegion->{{0, 1}, {0, 1}}]
 }, Open  ]],
 
 Cell["Large color pad", "Text",
@@ -8151,7 +8148,6 @@ Cell[BoxData[
      RowBox[{"-", "2"}], ",", "5"}], "}"}], ",", 
    RowBox[{"PlotLegends", "\[Rule]", "\"\<Expressions\>\""}]}], 
   "]"}]], "Input",
- CellTags->"In[14]:=",
  CellID->1087542972],
 
 Cell[BoxData[
@@ -8810,17 +8806,18 @@ rd80EaLEiJPQ+r377ltopolG6qmjlhoqqWAVK1nBUsopooB88sglh2yyyCQj
      RowBox[{#, ",", 
        RowBox[{"Placed", "[", 
          RowBox[{#2, ",", "After"}], "]"}]}], "]"}]& )]], "Output",
- CellChangeTimes->{3.637731813098543*^9},
+ CellChangeTimes->{
+  3.637731813098543*^9, {3.637732273834683*^9, 3.6377322953715343`*^9}},
  ImageSize->{331, 242},
  ImageMargins->{{0, 0}, {0, 0}},
- ImageRegion->{{0, 1}, {0, 1}},
- CellTags->"Out[14]="]
+ ImageRegion->{{0, 1}, {0, 1}}]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{835, 800},
 WindowMargins->{{156, Automatic}, {8, Automatic}},
+ShowCellTags->True,
 FrontEndVersion->"10.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 23, \
 2015)",
 StyleDefinitions->"Default.nb"
@@ -8829,55 +8826,10 @@ StyleDefinitions->"Default.nb"
 
 (* Internal cache information *)
 (*CellTagsOutline
-CellTagsIndex->{
- "In[10]:="->{
-  Cell[1973, 54, 980, 28, 46, "Input",
-   CellTags->"In[10]:="]},
- "In[11]:="->{
-  Cell[116789, 1950, 297, 8, 28, "Input",
-   CellTags->"In[11]:="]},
- "In[12]:="->{
-  Cell[117416, 1972, 187611, 3083, 77, "Input",
-   CellTags->"In[12]:=",
-   CellID->309922819]},
- "In[13]:="->{
-  Cell[487059, 8056, 799, 23, 65, "Input",
-   CellTags->"In[13]:=",
-   CellID->207220844]},
- "In[14]:="->{
-  Cell[489271, 8132, 636, 22, 28, "Input",
-   CellTags->"In[14]:=",
-   CellID->1087542972]},
- "Out[10]="->{
-  Cell[2956, 84, 113430, 1849, 195, "Output",
-   CellTags->"Out[10]="]},
- "Out[11]="->{
-  Cell[117089, 1960, 163, 3, 48, "Output",
-   CellTags->"Out[11]="]},
- "Out[12]="->{
-  Cell[305030, 5057, 181855, 2989, 250, "Output",
-   CellTags->"Out[12]="]},
- "Out[13]="->{
-  Cell[487861, 8081, 1185, 40, 100, "Output",
-   CellTags->"Out[13]="]},
- "Out[14]="->{
-  Cell[489910, 8156, 35818, 660, 378, "Output",
-   CellTags->"Out[14]="]}
- }
+CellTagsIndex->{}
 *)
 (*CellTagsIndex
-CellTagsIndex->{
- {"In[10]:=", 526073, 8832},
- {"In[11]:=", 526154, 8835},
- {"In[12]:=", 526238, 8838},
- {"In[13]:=", 526350, 8842},
- {"In[14]:=", 526457, 8846},
- {"Out[10]=", 526565, 8850},
- {"Out[11]=", 526653, 8853},
- {"Out[12]=", 526738, 8856},
- {"Out[13]=", 526830, 8859},
- {"Out[14]=", 526918, 8862}
- }
+CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
@@ -8887,43 +8839,33 @@ Cell[CellGroupData[{
 Cell[733, 28, 165, 3, 65, "Chapter"],
 Cell[901, 33, 1047, 17, 171, "Text"],
 Cell[CellGroupData[{
-Cell[1973, 54, 980, 28, 46, "Input",
- CellTags->"In[10]:="],
-Cell[2956, 84, 113430, 1849, 195, "Output",
- CellTags->"Out[10]="]
+Cell[1973, 54, 957, 27, 46, "Input"],
+Cell[2933, 83, 113457, 1849, 195, "Output"]
 }, Open  ]],
-Cell[116401, 1936, 119, 2, 31, "Text"],
-Cell[116523, 1940, 125, 2, 46, "Program"],
-Cell[116651, 1944, 113, 2, 31, "Text"],
+Cell[116405, 1935, 119, 2, 31, "Text"],
+Cell[116527, 1939, 125, 2, 46, "Program"],
+Cell[116655, 1943, 113, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[116789, 1950, 297, 8, 28, "Input",
- CellTags->"In[11]:="],
-Cell[117089, 1960, 163, 3, 48, "Output",
- CellTags->"Out[11]="]
+Cell[116793, 1949, 274, 7, 28, "Input"],
+Cell[117070, 1958, 192, 4, 48, "Output"]
 }, Open  ]],
-Cell[117267, 1966, 124, 2, 31, "Text"],
+Cell[117277, 1965, 124, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[117416, 1972, 187611, 3083, 77, "Input",
- CellTags->"In[12]:=",
+Cell[117426, 1971, 187588, 3082, 77, "Input",
  CellID->309922819],
-Cell[305030, 5057, 181855, 2989, 250, "Output",
- CellTags->"Out[12]="]
+Cell[305017, 5055, 181883, 2989, 250, "Output"]
 }, Open  ]],
-Cell[486900, 8049, 134, 3, 33, "Text"],
+Cell[486915, 8047, 134, 3, 33, "Text"],
 Cell[CellGroupData[{
-Cell[487059, 8056, 799, 23, 65, "Input",
- CellTags->"In[13]:=",
+Cell[487074, 8054, 776, 22, 65, "Input",
  CellID->207220844],
-Cell[487861, 8081, 1185, 40, 100, "Output",
- CellTags->"Out[13]="]
+Cell[487853, 8078, 1213, 40, 100, "Output"]
 }, Open  ]],
-Cell[489061, 8124, 185, 4, 33, "Text"],
+Cell[489081, 8121, 185, 4, 33, "Text"],
 Cell[CellGroupData[{
-Cell[489271, 8132, 636, 22, 28, "Input",
- CellTags->"In[14]:=",
+Cell[489291, 8129, 613, 21, 28, "Input",
  CellID->1087542972],
-Cell[489910, 8156, 35818, 660, 378, "Output",
- CellTags->"Out[14]="]
+Cell[489907, 8152, 35846, 660, 378, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
