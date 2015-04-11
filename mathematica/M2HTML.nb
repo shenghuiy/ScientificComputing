@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    117709,       1988]
-NotebookOptionsPosition[    116965,       1957]
-NotebookOutlinePosition[    117320,       1973]
-CellTagsIndexPosition[    117277,       1970]
+NotebookDataLength[    117903,       1995]
+NotebookOptionsPosition[    117156,       1964]
+NotebookOutlinePosition[    117511,       1980]
+CellTagsIndexPosition[    117468,       1977]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -21,12 +21,15 @@ Notebook[{
 
 Cell[CellGroupData[{
 Cell["Hyperbolic Geometry", "Title",
- CellChangeTimes->{{3.6377293506167603`*^9, 3.637729358887436*^9}}],
+ CellChangeTimes->{{3.6377293506167603`*^9, 3.637729358887436*^9}},
+ FontFamily->"Georgia"],
 
 Cell[CellGroupData[{
 
-Cell["Heading", "Chapter",
- CellChangeTimes->{{3.63772615450952*^9, 3.637726175322908*^9}}],
+Cell["Chapter 1", "Chapter",
+ CellChangeTimes->{{3.63772615450952*^9, 3.637726175322908*^9}, {
+  3.637730650667832*^9, 3.63773065839462*^9}},
+ FontFamily->"Georgia"],
 
 Cell["\<\
 The Receiver Operating Characteristic \[OpenCurlyDoubleQuote]ROC\
@@ -44,7 +47,8 @@ some perspective on the seemingly arbitrary use of AUC to quantify the \
 performance of the binary classifier.\
 \>", "Text",
  CellChangeTimes->{{3.637728011688284*^9, 3.637728014495159*^9}, {
-  3.637728543659461*^9, 3.637728557084543*^9}}],
+  3.637728543659461*^9, 3.637728557084543*^9}},
+ FontFamily->"Georgia"],
 
 Cell[CellGroupData[{
 
@@ -1929,13 +1933,16 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
 }, Open  ]],
 
 Cell["Sample code", "Text",
- CellChangeTimes->{{3.6377280288432293`*^9, 3.637728031355179*^9}}],
+ CellChangeTimes->{{3.6377280288432293`*^9, 3.637728031355179*^9}},
+ FontFamily->"Georgia"],
 
 Cell["Verbatim Code Style", "Program",
- CellChangeTimes->{{3.637728042363392*^9, 3.637728077217944*^9}}],
+ CellChangeTimes->{{3.637728042363392*^9, 3.637728077217944*^9}},
+ FontWeight->"Bold"],
 
 Cell["Formula", "Text",
- CellChangeTimes->{{3.637729032945157*^9, 3.637729034992044*^9}}],
+ CellChangeTimes->{{3.637729032945157*^9, 3.637729034992044*^9}},
+ FontFamily->"Georgia"],
 
 Cell[CellGroupData[{
 
@@ -1973,20 +1980,20 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 104, 1, 92, "Title"],
+Cell[580, 22, 128, 2, 91, "Title"],
 Cell[CellGroupData[{
-Cell[709, 27, 91, 1, 65, "Chapter"],
-Cell[803, 30, 1023, 16, 163, "Text"],
+Cell[733, 28, 165, 3, 65, "Chapter"],
+Cell[901, 33, 1047, 17, 171, "Text"],
 Cell[CellGroupData[{
-Cell[1851, 50, 957, 27, 46, "Input"],
-Cell[2811, 79, 113385, 1848, 195, "Output"]
+Cell[1973, 54, 957, 27, 46, "Input"],
+Cell[2933, 83, 113385, 1848, 195, "Output"]
 }, Open  ]],
-Cell[116211, 1930, 95, 1, 30, "Text"],
-Cell[116309, 1933, 104, 1, 46, "Program"],
-Cell[116416, 1936, 89, 1, 30, "Text"],
+Cell[116333, 1934, 119, 2, 31, "Text"],
+Cell[116455, 1938, 125, 2, 46, "Program"],
+Cell[116583, 1942, 113, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[116530, 1941, 274, 7, 28, "Input"],
-Cell[116807, 1950, 118, 2, 48, "Output"]
+Cell[116721, 1948, 274, 7, 28, "Input"],
+Cell[116998, 1957, 118, 2, 48, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
