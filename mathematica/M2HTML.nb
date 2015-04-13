@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    527901,       8886]
-NotebookOptionsPosition[    526545,       8835]
-NotebookOutlinePosition[    526920,       8852]
-CellTagsIndexPosition[    526877,       8849]
+NotebookDataLength[    527969,       8889]
+NotebookOptionsPosition[    526593,       8837]
+NotebookOutlinePosition[    526988,       8855]
+CellTagsIndexPosition[    526945,       8852]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1941,7 +1941,8 @@ wzzCRd48OGm0NbM+2e38S95GCSK9rqc5nmRyY0MEbg3pShPpne70+gyT95Z2
   3.637726211451273*^9, 3.637728998924912*^9, 3.637729377619385*^9, 
    3.6377294141633387`*^9, 3.637729448303747*^9, 3.637729664023472*^9, 
    3.637731807085567*^9, {3.63773227139684*^9, 3.637732289816641*^9}, 
-   3.6377324279988813`*^9, 3.637732464406837*^9}]
+   3.6377324279988813`*^9, 3.637732464406837*^9},
+ TextAlignment->Center]
 }, Open  ]],
 
 Cell["Sample code", "Text",
@@ -8052,6 +8053,7 @@ Ivx3/+a/9vLeAuZPX8pfXIg72LvLl/7Ct/2m/j8IHgce
  CellChangeTimes->{
   3.637731807365872*^9, {3.637732271505135*^9, 3.6377322900468817`*^9}, 
    3.637732428226819*^9, 3.6377324646157417`*^9},
+ TextAlignment->Center,
  ImageSize->{234, 235},
  ImageMargins->{{0, 0}, {0, 0}},
  ImageRegion->{{0, 1}, {0, 1}}]
@@ -8833,6 +8835,7 @@ rd80EaLEiJPQ+r377ltopolG6qmjlhoqqWAVK1nBUsopooB88sglh2yyyCQj
 }, Open  ]]
 }, Open  ]]
 },
+WindowToolbars->{},
 WindowSize->{835, 800},
 WindowMargins->{{Automatic, 227}, {Automatic, 0}},
 ShowCellTags->True,
@@ -8859,32 +8862,32 @@ Cell[1149, 38, 165, 3, 65, "Chapter"],
 Cell[1317, 43, 1047, 17, 171, "Text"],
 Cell[CellGroupData[{
 Cell[2389, 64, 957, 27, 46, "Input"],
-Cell[3349, 93, 113507, 1850, 195, "Output"]
+Cell[3349, 93, 113531, 1851, 195, "Output"]
 }, Open  ]],
-Cell[116871, 1946, 119, 2, 31, "Text"],
-Cell[116993, 1950, 125, 2, 46, "Program"],
-Cell[117121, 1954, 113, 2, 31, "Text"],
+Cell[116895, 1947, 119, 2, 31, "Text"],
+Cell[117017, 1951, 125, 2, 46, "Program"],
+Cell[117145, 1955, 113, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[117259, 1960, 274, 7, 28, "Input"],
-Cell[117536, 1969, 238, 4, 48, "Output"]
+Cell[117283, 1961, 274, 7, 28, "Input"],
+Cell[117560, 1970, 238, 4, 48, "Output"]
 }, Open  ]],
-Cell[117789, 1976, 124, 2, 31, "Text"],
+Cell[117813, 1977, 124, 2, 31, "Text"],
 Cell[CellGroupData[{
-Cell[117938, 1982, 187588, 3082, 77, "Input",
+Cell[117962, 1983, 187588, 3082, 77, "Input",
  CellID->309922819],
-Cell[305529, 5066, 181933, 2990, 250, "Output"]
+Cell[305553, 5067, 181957, 2991, 250, "Output"]
 }, Open  ]],
-Cell[487477, 8059, 134, 3, 33, "Text"],
+Cell[487525, 8061, 134, 3, 33, "Text"],
 Cell[CellGroupData[{
-Cell[487636, 8066, 776, 22, 65, "Input",
+Cell[487684, 8068, 776, 22, 65, "Input",
  CellID->207220844],
-Cell[488415, 8090, 1263, 41, 100, "Output"]
+Cell[488463, 8092, 1263, 41, 100, "Output"]
 }, Open  ]],
-Cell[489693, 8134, 185, 4, 33, "Text"],
+Cell[489741, 8136, 185, 4, 33, "Text"],
 Cell[CellGroupData[{
-Cell[489903, 8142, 613, 21, 28, "Input",
+Cell[489951, 8144, 613, 21, 28, "Input",
  CellID->1087542972],
-Cell[490519, 8165, 35986, 665, 378, "Output"]
+Cell[490567, 8167, 35986, 665, 378, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
